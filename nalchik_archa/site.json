@@ -1,0 +1,115 @@
+{
+  "id": "nalchik_archa_r217",
+  "name": "Арка Дружбы — выезд из Нальчика на Р-217 «Кавказ»",
+  "status": "control_points_collected_pending_pixel_verification",
+  "scope": [
+    "roads",
+    "road_surfaces",
+    "sidewalks",
+    "curbs",
+    "islands",
+    "crossings",
+    "parking_bays",
+    "driveways",
+    "road_signals",
+    "street_lights",
+    "road_markings",
+    "speed_humps"
+  ],
+  "excluded_scope": [
+    "buildings",
+    "vegetation",
+    "terrain",
+    "monuments",
+    "non_road_world_objects"
+  ],
+  "reference": {
+    "provider": "Yandex Maps",
+    "type": "2D schematic map used as visual reference only",
+    "url": "https://yandex.ru/maps/30/nalchik/?azimuth=1.0797648870981753&ll=43.613340%2C43.520540&z=18.75",
+    "satellite_url": "https://yandex.ru/maps/30/nalchik/sputnik/?ll=43.613670%2C43.520029&z=19",
+    "annotated_reference_url": "https://postimg.cc/R6FcMhJW",
+    "approximate_map_center_lon_lat": [
+      43.61334,
+      43.52054
+    ],
+    "zoom": 18.75,
+    "azimuth": 1.0797648870981753,
+    "screenshot_url": "https://raw.githubusercontent.com/d1gorae/beamng-road-reference/main/firefox_tf7XjE4VdS.png",
+    "screenshot_dimensions_px": [
+      1000,
+      450
+    ]
+  },
+  "georeferencing": {
+    "method": "affine_pixel_to_wgs84",
+    "control_points": [
+      {
+        "id": "P1",
+        "description": "Первая контрольная точка, у кольца / съезда с Р-217",
+        "lon": 43.613157,
+        "lat": 43.520315,
+        "pixel_x": 550,
+        "pixel_y": 242,
+        "pixel_precision": "approximate",
+        "image_url": "https://raw.githubusercontent.com/d1gorae/beamng-road-reference/main/explorer_VITaws9Vsd.png"
+      },
+      {
+        "id": "P2",
+        "description": "Заезд в жилой двор, расстояние от P1 по Яндекс Картам около 230 м",
+        "lon": 43.612646,
+        "lat": 43.518285,
+        "pixel_x": 107,
+        "pixel_y": 383,
+        "pixel_precision": "approximate",
+        "image_url": "https://raw.githubusercontent.com/d1gorae/beamng-road-reference/main/firefox_sp3x6UnQCr.png",
+        "reported_distance_from_P1_m": 230
+      },
+      {
+        "id": "P3",
+        "description": "Заезд в сторону автомойки",
+        "lon": 43.614638,
+        "lat": 43.520657,
+        "pixel_x": 735,
+        "pixel_y": 416,
+        "pixel_precision": "approximate",
+        "image_url": "https://raw.githubusercontent.com/d1gorae/beamng-road-reference/main/firefox_UMG7YISXzJ.png"
+      },
+      {
+        "id": "P4",
+        "description": "Заезд во двор жилых многоэтажек, верхняя часть схемы",
+        "lon": 43.611792,
+        "lat": 43.520226,
+        "pixel_x": 429,
+        "pixel_y": 54,
+        "pixel_precision": "approximate",
+        "image_url": "https://raw.githubusercontent.com/d1gorae/beamng-road-reference/main/firefox_tf7XjE4VdS.png"
+      }
+    ],
+    "notes": "Four well-spaced geographic control points have been supplied by the user. Pixel positions are preliminary visual estimates from 1000x450 screenshots and must be verified against the original image pixels before tracing. Fit the affine transform and inspect residuals; do not treat approximate pixel picks as final survey accuracy.",
+    "preliminary_calibration": {
+      "status": "preliminary_fit_pass_pixel_positions_still_approximate",
+      "report_file": "calibration_report.json",
+      "mean_scale_m_per_pixel": 0.494137,
+      "max_fit_residual_m": 0.989,
+      "mean_fit_residual_m": 0.495,
+      "pixel_positions_verified_against_original_image": false,
+      "note": "Small residuals are a consistency check only; pixel positions are still visual estimates and must be checked before tracing final road geometry."
+    }
+  },
+  "replacement": {
+    "mode": "not_enabled",
+    "notes": "Do not overlay or delete upstream road features until a clipped, tile-safe replacement mask is implemented and tested."
+  },
+  "acquisition": {
+    "primary_pipeline": "BeamNG.Earth existing Overture roads layer; independent local correction layer",
+    "auxiliary_source": "OpenStreetMap via Overpass API for road tags and service/driveway candidates",
+    "osm_bbox_south_west_north_east": [
+      43.518,
+      43.6115,
+      43.5215,
+      43.615
+    ],
+    "note": "OSM geometry is auxiliary and must be visually checked against the selected Yandex 2D schematic reference. No Yandex tile scraping or vector extraction is performed."
+  }
+}

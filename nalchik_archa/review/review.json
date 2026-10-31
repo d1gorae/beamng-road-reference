@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "site_id": "nalchik_archa_r217",
+  "site_name": "Арка Дружбы — выезд из Нальчика на Р-217 «Кавказ»",
+  "status": "pending_review",
+  "source_file": "../roads.geojson",
+  "source_sha256": "abca91ddfbcf6b910e6b8a1e1b7e61a784ff4e8d8463ebb3711ad53868c82f37",
+  "source_metadata": {
+    "provider": "OpenStreetMap via Overpass API",
+    "endpoint": "https://overpass-api.de/api/interpreter",
+    "retrieved_utc": "2026-10-31T23:44:22.531267+00:00",
+    "bbox_south_west_north_east": [
+      43.518,
+      43.6115,
+      43.5215,
+      43.615
+    ],
+    "query": "[out:json][timeout:60];\nway[highway](43.518,43.6115,43.5215,43.615);\nout tags geom;",
+    "feature_count": 43,
+    "license": "Open Database License (ODbL) 1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "attribution_url": "https://www.openstreetmap.org/copyright",
+    "limitations": [
+      "OSM is auxiliary input and is not assumed to match the Yandex visual reference.",
+      "Missing width, lanes, sidewalks or driveway tags are not evidence that the feature does not exist.",
+      "Review and correct each area before any game integration."
+    ],
+    "output_file": "roads.geojson"
+  },
+  "validation": {
+    "feature_count": 43,
+    "line_count": 43,
+    "coordinate_count": 240,
+    "bounds_lon_lat": [
+      43.6084114,
+      43.511907,
+      43.6187927,
+      43.5219896
+    ],
+    "feature_ids": [
+      "osm-way-1016298745",
+      "osm-way-168715604",
+      "osm-way-168715605",
+      "osm-way-297160450",
+      "osm-way-297160462",
+      "osm-way-360729096",
+      "osm-way-627730135",
+      "osm-way-627730137",
+      "osm-way-627730140",
+      "osm-way-639751968",
+      "osm-way-639751969",
+      "osm-way-651545861",
+      "osm-way-651545862",
+      "osm-way-651545863",
+      "osm-way-651545864",
+      "osm-way-651545865",
+      "osm-way-657538233",
+      "osm-way-664009173",
+      "osm-way-664032471",
+      "osm-way-664032489",
+      "osm-way-664032490",
+      "osm-way-664032491",
+      "osm-way-665717914",
+      "osm-way-665717915",
+      "osm-way-666490241",
+      "osm-way-666509049",
+      "osm-way-667711899",
+      "osm-way-667711900",
+      "osm-way-668557371",
+      "osm-way-669833152",
+      "osm-way-669833153",
+      "osm-way-673230291",
+      "osm-way-673245378",
+      "osm-way-674193949",
+      "osm-way-675546281",
+      "osm-way-675546284",
+      "osm-way-82220638",
+      "osm-way-82221981",
+      "osm-way-82222101",
+      "osm-way-932450706",
+      "osm-way-985265360",
+      "osm-way-985265361",
+      "osm-way-985265362"
+    ]
+  },
+  "approval": null,
+  "integration": {
+    "enabled": false,
+    "note": "Review package only; not connected to live BeamNG.Earth roads."
+  }
+}

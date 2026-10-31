@@ -1,0 +1,22 @@
+{
+  "provider": "OpenStreetMap via Overpass API",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "retrieved_utc": "2026-10-31T23:44:22.531267+00:00",
+  "bbox_south_west_north_east": [
+    43.518,
+    43.6115,
+    43.5215,
+    43.615
+  ],
+  "query": "[out:json][timeout:60];\nway[highway](43.518,43.6115,43.5215,43.615);\nout tags geom;",
+  "feature_count": 43,
+  "license": "Open Database License (ODbL) 1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "attribution_url": "https://www.openstreetmap.org/copyright",
+  "limitations": [
+    "OSM is auxiliary input and is not assumed to match the Yandex visual reference.",
+    "Missing width, lanes, sidewalks or driveway tags are not evidence that the feature does not exist.",
+    "Review and correct each area before any game integration."
+  ],
+  "output_file": "roads.geojson"
+}

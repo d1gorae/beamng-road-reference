@@ -1,0 +1,1831 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm-way-1016298745",
+      "properties": {
+        "id": "osm-way-1016298745",
+        "source": "OpenStreetMap",
+        "source_id": 1016298745,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6127854,
+            43.5202902
+          ],
+          [
+            43.6127655,
+            43.5201885
+          ],
+          [
+            43.6127353,
+            43.5200591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-168715604",
+      "properties": {
+        "id": "osm-way-168715604",
+        "source": "OpenStreetMap",
+        "source_id": 168715604,
+        "road_class": "service",
+        "highway": "service",
+        "lanes": 1,
+        "surface": "asphalt",
+        "oneway": false,
+        "maxspeed": "20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6129282,
+            43.5180701
+          ],
+          [
+            43.6131236,
+            43.5180676
+          ],
+          [
+            43.614006,
+            43.5181892
+          ],
+          [
+            43.6141052,
+            43.5180793
+          ],
+          [
+            43.6146018,
+            43.5174179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-168715605",
+      "properties": {
+        "id": "osm-way-168715605",
+        "source": "OpenStreetMap",
+        "source_id": 168715605,
+        "road_class": "service",
+        "highway": "service",
+        "lanes": 1,
+        "surface": "asphalt",
+        "oneway": false,
+        "maxspeed": "20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6131236,
+            43.5180676
+          ],
+          [
+            43.6130617,
+            43.5172222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-297160450",
+      "properties": {
+        "id": "osm-way-297160450",
+        "source": "OpenStreetMap",
+        "source_id": 297160450,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "bridge": "yes",
+        "layer": "1",
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6125523,
+            43.521285
+          ],
+          [
+            43.6120863,
+            43.5219896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-297160462",
+      "properties": {
+        "id": "osm-way-297160462",
+        "source": "OpenStreetMap",
+        "source_id": 297160462,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6123806,
+            43.5212063
+          ],
+          [
+            43.6125399,
+            43.5209748
+          ],
+          [
+            43.6125972,
+            43.5208863
+          ],
+          [
+            43.6126663,
+            43.5207665
+          ],
+          [
+            43.612697,
+            43.5207028
+          ],
+          [
+            43.6127226,
+            43.5206398
+          ],
+          [
+            43.6127467,
+            43.5205766
+          ],
+          [
+            43.6127642,
+            43.5205085
+          ],
+          [
+            43.6127789,
+            43.5204239
+          ],
+          [
+            43.6127831,
+            43.5203807
+          ],
+          [
+            43.6127856,
+            43.520314
+          ],
+          [
+            43.6127854,
+            43.5202902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-360729096",
+      "properties": {
+        "id": "osm-way-360729096",
+        "source": "OpenStreetMap",
+        "source_id": 360729096,
+        "road_class": "residential",
+        "highway": "residential",
+        "name": "улица Симиренко",
+        "lanes": 1,
+        "surface": "asphalt",
+        "oneway": false,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6143221,
+            43.5183721
+          ],
+          [
+            43.6153364,
+            43.5187726
+          ],
+          [
+            43.6148483,
+            43.5195137
+          ],
+          [
+            43.6146652,
+            43.5197806
+          ],
+          [
+            43.6145626,
+            43.5199192
+          ],
+          [
+            43.6145572,
+            43.5199562
+          ],
+          [
+            43.6145881,
+            43.5199883
+          ],
+          [
+            43.6148281,
+            43.520103
+          ],
+          [
+            43.6148831,
+            43.5201322
+          ],
+          [
+            43.6149073,
+            43.5201623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-627730135",
+      "properties": {
+        "id": "osm-way-627730135",
+        "source": "OpenStreetMap",
+        "source_id": 627730135,
+        "road_class": "service",
+        "highway": "service",
+        "lanes": 1,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6130691,
+            43.5184109
+          ],
+          [
+            43.613098,
+            43.5189638
+          ],
+          [
+            43.6130815,
+            43.5190163
+          ],
+          [
+            43.613046,
+            43.5190641
+          ],
+          [
+            43.6129924,
+            43.5191332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-627730137",
+      "properties": {
+        "id": "osm-way-627730137",
+        "source": "OpenStreetMap",
+        "source_id": 627730137,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "name": "улица Мальбахова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6129924,
+            43.5191332
+          ],
+          [
+            43.6130016,
+            43.5192336
+          ],
+          [
+            43.6130149,
+            43.5193348
+          ],
+          [
+            43.6130244,
+            43.5193911
+          ],
+          [
+            43.6130552,
+            43.5194495
+          ],
+          [
+            43.6131155,
+            43.5195166
+          ],
+          [
+            43.6131699,
+            43.5195745
+          ],
+          [
+            43.6132416,
+            43.5196251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-627730140",
+      "properties": {
+        "id": "osm-way-627730140",
+        "source": "OpenStreetMap",
+        "source_id": 627730140,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "name": "улица Мальбахова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6127429,
+            43.5189896
+          ],
+          [
+            43.6127,
+            43.518229
+          ],
+          [
+            43.6126361,
+            43.5172186
+          ],
+          [
+            43.6126228,
+            43.5168611
+          ],
+          [
+            43.6126118,
+            43.5166679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-639751968",
+      "properties": {
+        "id": "osm-way-639751968",
+        "source": "OpenStreetMap",
+        "source_id": 639751968,
+        "road_class": "service",
+        "highway": "service",
+        "lanes": 1,
+        "oneway": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.614814,
+            43.5179956
+          ],
+          [
+            43.6145639,
+            43.518334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-639751969",
+      "properties": {
+        "id": "osm-way-639751969",
+        "source": "OpenStreetMap",
+        "source_id": 639751969,
+        "road_class": "service",
+        "highway": "service",
+        "lanes": 1,
+        "oneway": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6146531,
+            43.5179131
+          ],
+          [
+            43.614814,
+            43.5179956
+          ],
+          [
+            43.6149824,
+            43.5180501
+          ],
+          [
+            43.6151138,
+            43.5180987
+          ],
+          [
+            43.615315,
+            43.5181843
+          ],
+          [
+            43.615492,
+            43.5182562
+          ],
+          [
+            43.6155617,
+            43.5183263
+          ],
+          [
+            43.6156073,
+            43.5184216
+          ],
+          [
+            43.6156127,
+            43.5184974
+          ],
+          [
+            43.6155805,
+            43.518583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-651545861",
+      "properties": {
+        "id": "osm-way-651545861",
+        "source": "OpenStreetMap",
+        "source_id": 651545861,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "name": "улица Мальбахова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6127824,
+            43.5198252
+          ],
+          [
+            43.612795,
+            43.5197529
+          ],
+          [
+            43.6127581,
+            43.5192599
+          ],
+          [
+            43.6127514,
+            43.5191577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-651545862",
+      "properties": {
+        "id": "osm-way-651545862",
+        "source": "OpenStreetMap",
+        "source_id": 651545862,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6123498,
+            43.5202612
+          ],
+          [
+            43.612506,
+            43.5202207
+          ],
+          [
+            43.612569,
+            43.5201964
+          ],
+          [
+            43.6126435,
+            43.5201453
+          ],
+          [
+            43.6126951,
+            43.5200806
+          ],
+          [
+            43.6127241,
+            43.5199972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-651545863",
+      "properties": {
+        "id": "osm-way-651545863",
+        "source": "OpenStreetMap",
+        "source_id": 651545863,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6127854,
+            43.5202902
+          ],
+          [
+            43.612618,
+            43.5202863
+          ],
+          [
+            43.6124557,
+            43.5202727
+          ],
+          [
+            43.6123498,
+            43.5202612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-651545864",
+      "properties": {
+        "id": "osm-way-651545864",
+        "source": "OpenStreetMap",
+        "source_id": 651545864,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6130562,
+            43.5196715
+          ],
+          [
+            43.6132416,
+            43.5196251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-651545865",
+      "properties": {
+        "id": "osm-way-651545865",
+        "source": "OpenStreetMap",
+        "source_id": 651545865,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6132416,
+            43.5196251
+          ],
+          [
+            43.6133553,
+            43.5196883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-657538233",
+      "properties": {
+        "id": "osm-way-657538233",
+        "source": "OpenStreetMap",
+        "source_id": 657538233,
+        "road_class": "service",
+        "highway": "service",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": false,
+        "maxspeed": "20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6129924,
+            43.5191332
+          ],
+          [
+            43.6128661,
+            43.5191548
+          ],
+          [
+            43.6127514,
+            43.5191577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-664009173",
+      "properties": {
+        "id": "osm-way-664009173",
+        "source": "OpenStreetMap",
+        "source_id": 664009173,
+        "road_class": "service",
+        "highway": "service",
+        "lanes": 1,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6129369,
+            43.5182113
+          ],
+          [
+            43.6130194,
+            43.5182508
+          ],
+          [
+            43.6130638,
+            43.5183097
+          ],
+          [
+            43.6130691,
+            43.5184109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-664032471",
+      "properties": {
+        "id": "osm-way-664032471",
+        "source": "OpenStreetMap",
+        "source_id": 664032471,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "name": "улица Мальбахова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6129369,
+            43.5182113
+          ],
+          [
+            43.6129924,
+            43.5191332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-664032489",
+      "properties": {
+        "id": "osm-way-664032489",
+        "source": "OpenStreetMap",
+        "source_id": 664032489,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6127241,
+            43.5199972
+          ],
+          [
+            43.6127288,
+            43.5199376
+          ],
+          [
+            43.6127485,
+            43.5198796
+          ],
+          [
+            43.6127824,
+            43.5198252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-664032490",
+      "properties": {
+        "id": "osm-way-664032490",
+        "source": "OpenStreetMap",
+        "source_id": 664032490,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6131367,
+            43.5203107
+          ],
+          [
+            43.6130259,
+            43.5202938
+          ],
+          [
+            43.6129245,
+            43.5202573
+          ],
+          [
+            43.6128388,
+            43.5202037
+          ],
+          [
+            43.6127744,
+            43.5201361
+          ],
+          [
+            43.6127353,
+            43.5200591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-664032491",
+      "properties": {
+        "id": "osm-way-664032491",
+        "source": "OpenStreetMap",
+        "source_id": 664032491,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6135837,
+            43.5198541
+          ],
+          [
+            43.6136183,
+            43.5199432
+          ],
+          [
+            43.6136169,
+            43.5200357
+          ],
+          [
+            43.6135797,
+            43.5201242
+          ],
+          [
+            43.6135097,
+            43.5202016
+          ],
+          [
+            43.6134125,
+            43.5202615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-665717914",
+      "properties": {
+        "id": "osm-way-665717914",
+        "source": "OpenStreetMap",
+        "source_id": 665717914,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6134125,
+            43.5202615
+          ],
+          [
+            43.6133475,
+            43.5202862
+          ],
+          [
+            43.6132777,
+            43.5203027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-665717915",
+      "properties": {
+        "id": "osm-way-665717915",
+        "source": "OpenStreetMap",
+        "source_id": 665717915,
+        "road_class": "unclassified",
+        "highway": "unclassified",
+        "name": "улица Абидова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": false,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6134125,
+            43.5202615
+          ],
+          [
+            43.6135876,
+            43.5203568
+          ],
+          [
+            43.6136734,
+            43.5204016
+          ],
+          [
+            43.6139041,
+            43.5204701
+          ],
+          [
+            43.6146095,
+            43.5206797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-666490241",
+      "properties": {
+        "id": "osm-way-666490241",
+        "source": "OpenStreetMap",
+        "source_id": 666490241,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "name": "улица Комарова",
+        "lanes": 4,
+        "surface": "asphalt",
+        "oneway": false,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6123498,
+            43.5202612
+          ],
+          [
+            43.6117804,
+            43.5203066
+          ],
+          [
+            43.6116269,
+            43.5203188
+          ],
+          [
+            43.6115035,
+            43.5203286
+          ],
+          [
+            43.6112782,
+            43.5203315
+          ],
+          [
+            43.6110958,
+            43.5203199
+          ],
+          [
+            43.6109108,
+            43.5202819
+          ],
+          [
+            43.6107659,
+            43.5202294
+          ],
+          [
+            43.610687,
+            43.5201913
+          ],
+          [
+            43.6104849,
+            43.5200936
+          ],
+          [
+            43.609397,
+            43.5195783
+          ],
+          [
+            43.6089273,
+            43.5193231
+          ],
+          [
+            43.6084365,
+            43.5190186
+          ],
+          [
+            43.6084114,
+            43.5190006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-666509049",
+      "properties": {
+        "id": "osm-way-666509049",
+        "source": "OpenStreetMap",
+        "source_id": 666509049,
+        "road_class": "primary",
+        "highway": "primary",
+        "name": "улица Идарова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6187927,
+            43.511907
+          ],
+          [
+            43.6186705,
+            43.5120745
+          ],
+          [
+            43.6183043,
+            43.5126096
+          ],
+          [
+            43.6178952,
+            43.5132207
+          ],
+          [
+            43.6177057,
+            43.5134818
+          ],
+          [
+            43.6173668,
+            43.5139488
+          ],
+          [
+            43.6168909,
+            43.5146721
+          ],
+          [
+            43.6168395,
+            43.5147531
+          ],
+          [
+            43.6159296,
+            43.5160803
+          ],
+          [
+            43.6159233,
+            43.5160895
+          ],
+          [
+            43.6158331,
+            43.5162214
+          ],
+          [
+            43.6157575,
+            43.5163297
+          ],
+          [
+            43.6152988,
+            43.5169876
+          ],
+          [
+            43.6151648,
+            43.5171797
+          ],
+          [
+            43.6146531,
+            43.5179131
+          ],
+          [
+            43.6143221,
+            43.5183721
+          ],
+          [
+            43.6136487,
+            43.5193849
+          ],
+          [
+            43.6135688,
+            43.5194957
+          ],
+          [
+            43.6135494,
+            43.5195472
+          ],
+          [
+            43.6135259,
+            43.5196323
+          ],
+          [
+            43.6135273,
+            43.5197014
+          ],
+          [
+            43.6135837,
+            43.5198541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-667711899",
+      "properties": {
+        "id": "osm-way-667711899",
+        "source": "OpenStreetMap",
+        "source_id": 667711899,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6133553,
+            43.5196883
+          ],
+          [
+            43.6134217,
+            43.5197173
+          ],
+          [
+            43.6134495,
+            43.5197294
+          ],
+          [
+            43.6135272,
+            43.5197857
+          ],
+          [
+            43.6135837,
+            43.5198541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-667711900",
+      "properties": {
+        "id": "osm-way-667711900",
+        "source": "OpenStreetMap",
+        "source_id": 667711900,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6127824,
+            43.5198252
+          ],
+          [
+            43.6128537,
+            43.5197569
+          ],
+          [
+            43.6129471,
+            43.5197045
+          ],
+          [
+            43.6130562,
+            43.5196715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-668557371",
+      "properties": {
+        "id": "osm-way-668557371",
+        "source": "OpenStreetMap",
+        "source_id": 668557371,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "bridge": "yes",
+        "layer": "1",
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6121029,
+            43.5216001
+          ],
+          [
+            43.6123806,
+            43.5212063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-669833152",
+      "properties": {
+        "id": "osm-way-669833152",
+        "source": "OpenStreetMap",
+        "source_id": 669833152,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6127353,
+            43.5200591
+          ],
+          [
+            43.6127241,
+            43.5199972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-669833153",
+      "properties": {
+        "id": "osm-way-669833153",
+        "source": "OpenStreetMap",
+        "source_id": 669833153,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6132777,
+            43.5203027
+          ],
+          [
+            43.6132077,
+            43.5203108
+          ],
+          [
+            43.6131367,
+            43.5203107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-673230291",
+      "properties": {
+        "id": "osm-way-673230291",
+        "source": "OpenStreetMap",
+        "source_id": 673230291,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6131367,
+            43.5203107
+          ],
+          [
+            43.6129372,
+            43.5202965
+          ],
+          [
+            43.6127854,
+            43.5202902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-673245378",
+      "properties": {
+        "id": "osm-way-673245378",
+        "source": "OpenStreetMap",
+        "source_id": 673245378,
+        "road_class": "primary",
+        "highway": "primary",
+        "name": "улица Идарова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6132416,
+            43.5196251
+          ],
+          [
+            43.6133248,
+            43.5195939
+          ],
+          [
+            43.6133972,
+            43.5195385
+          ],
+          [
+            43.6134669,
+            43.5194719
+          ],
+          [
+            43.6135541,
+            43.5193542
+          ],
+          [
+            43.6142233,
+            43.5183603
+          ],
+          [
+            43.6142727,
+            43.5182892
+          ],
+          [
+            43.6148299,
+            43.5174881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-674193949",
+      "properties": {
+        "id": "osm-way-674193949",
+        "source": "OpenStreetMap",
+        "source_id": 674193949,
+        "road_class": "service",
+        "highway": "service",
+        "lanes": 1,
+        "surface": "asphalt",
+        "oneway": false,
+        "maxspeed": "20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6105245,
+            43.5194738
+          ],
+          [
+            43.6113507,
+            43.5198998
+          ],
+          [
+            43.6114928,
+            43.5199639
+          ],
+          [
+            43.6117315,
+            43.5200981
+          ],
+          [
+            43.6117557,
+            43.5201468
+          ],
+          [
+            43.6117704,
+            43.5202416
+          ],
+          [
+            43.6117804,
+            43.5203066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-675546281",
+      "properties": {
+        "id": "osm-way-675546281",
+        "source": "OpenStreetMap",
+        "source_id": 675546281,
+        "road_class": "residential",
+        "highway": "residential",
+        "name": "улица Симиренко",
+        "lanes": 1,
+        "surface": "asphalt",
+        "oneway": false,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6149073,
+            43.5201623
+          ],
+          [
+            43.6148912,
+            43.5201993
+          ],
+          [
+            43.6146095,
+            43.5206797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-675546284",
+      "properties": {
+        "id": "osm-way-675546284",
+        "source": "OpenStreetMap",
+        "source_id": 675546284,
+        "road_class": "unclassified",
+        "highway": "unclassified",
+        "name": "улица Абидова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": false,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6146095,
+            43.5206797
+          ],
+          [
+            43.6146939,
+            43.5207051
+          ],
+          [
+            43.6164406,
+            43.5212312
+          ],
+          [
+            43.6165228,
+            43.5212559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-82220638",
+      "properties": {
+        "id": "osm-way-82220638",
+        "source": "OpenStreetMap",
+        "source_id": 82220638,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "name": "улица Мальбахова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6125572,
+            43.5121493
+          ],
+          [
+            43.6125638,
+            43.5122788
+          ],
+          [
+            43.6125814,
+            43.5125591
+          ],
+          [
+            43.6126261,
+            43.5132688
+          ],
+          [
+            43.6127073,
+            43.5144331
+          ],
+          [
+            43.6127126,
+            43.5145168
+          ],
+          [
+            43.6127849,
+            43.5156547
+          ],
+          [
+            43.6128361,
+            43.5164843
+          ],
+          [
+            43.6128616,
+            43.5168971
+          ],
+          [
+            43.6128653,
+            43.516957
+          ],
+          [
+            43.6128819,
+            43.5172252
+          ],
+          [
+            43.6129282,
+            43.5180701
+          ],
+          [
+            43.6129335,
+            43.518157
+          ],
+          [
+            43.6129369,
+            43.5182113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-82221981",
+      "properties": {
+        "id": "osm-way-82221981",
+        "source": "OpenStreetMap",
+        "source_id": 82221981,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6130562,
+            43.5196715
+          ],
+          [
+            43.6131313,
+            43.5196617
+          ],
+          [
+            43.6132004,
+            43.5196613
+          ],
+          [
+            43.6132077,
+            43.5196613
+          ],
+          [
+            43.6132831,
+            43.5196703
+          ],
+          [
+            43.6133553,
+            43.5196883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-82222101",
+      "properties": {
+        "id": "osm-way-82222101",
+        "source": "OpenStreetMap",
+        "source_id": 82222101,
+        "road_class": "primary",
+        "highway": "primary",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6132777,
+            43.5203027
+          ],
+          [
+            43.6132067,
+            43.5203578
+          ],
+          [
+            43.613135,
+            43.5204132
+          ],
+          [
+            43.613074,
+            43.520477
+          ],
+          [
+            43.6130136,
+            43.5205683
+          ],
+          [
+            43.6129664,
+            43.520647
+          ],
+          [
+            43.612904,
+            43.5207452
+          ],
+          [
+            43.6127861,
+            43.5209306
+          ],
+          [
+            43.6125523,
+            43.521285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-932450706",
+      "properties": {
+        "id": "osm-way-932450706",
+        "source": "OpenStreetMap",
+        "source_id": 932450706,
+        "road_class": "secondary",
+        "highway": "secondary",
+        "name": "улица Мальбахова",
+        "lanes": 2,
+        "surface": "asphalt",
+        "oneway": true,
+        "maxspeed": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6127514,
+            43.5191577
+          ],
+          [
+            43.6127429,
+            43.5189896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-985265360",
+      "properties": {
+        "id": "osm-way-985265360",
+        "source": "OpenStreetMap",
+        "source_id": 985265360,
+        "road_class": "service",
+        "highway": "service",
+        "oneway": false,
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6134535,
+            43.5213935
+          ],
+          [
+            43.6135343,
+            43.521223
+          ],
+          [
+            43.6136047,
+            43.5210744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-985265361",
+      "properties": {
+        "id": "osm-way-985265361",
+        "source": "OpenStreetMap",
+        "source_id": 985265361,
+        "road_class": "service",
+        "highway": "service",
+        "oneway": false,
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6134495,
+            43.5210331
+          ],
+          [
+            43.6133811,
+            43.521187
+          ],
+          [
+            43.6133094,
+            43.5213484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-985265362",
+      "properties": {
+        "id": "osm-way-985265362",
+        "source": "OpenStreetMap",
+        "source_id": 985265362,
+        "road_class": "service",
+        "highway": "service",
+        "oneway": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6135876,
+            43.5203568
+          ],
+          [
+            43.6133004,
+            43.5209934
+          ],
+          [
+            43.6131611,
+            43.5213021
+          ],
+          [
+            43.6133094,
+            43.5213484
+          ],
+          [
+            43.6134535,
+            43.5213935
+          ],
+          [
+            43.6136211,
+            43.521446
+          ],
+          [
+            43.6137941,
+            43.5211669
+          ],
+          [
+            43.613766,
+            43.5211173
+          ],
+          [
+            43.6136047,
+            43.5210744
+          ],
+          [
+            43.6134495,
+            43.5210331
+          ],
+          [
+            43.6133004,
+            43.5209934
+          ]
+        ]
+      }
+    }
+  ]
+}

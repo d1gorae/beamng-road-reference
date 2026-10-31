@@ -1,0 +1,102 @@
+{
+  "site_id": "nalchik_archa_r217",
+  "status": "preliminary_fit_pass_pixel_positions_still_approximate",
+  "control_point_count": 4,
+  "pixel_canvas_px": [
+    1000,
+    450
+  ],
+  "coordinate_order": "longitude, latitude",
+  "affine_coefficients_lon_lat": [
+    [
+      43.61026013500405,
+      43.51867347305543
+    ],
+    [
+      2.8854460209135462e-06,
+      3.892968905440042e-06
+    ],
+    [
+      5.422888383336777e-06,
+      -2.1004462087410634e-06
+    ]
+  ],
+  "local_east_north_metres_per_pixel": [
+    [
+      0.23291924751668766,
+      0.4377469106886591
+    ],
+    [
+      0.43336529855358547,
+      -0.23382167195705517
+    ]
+  ],
+  "scale_m_per_pixel_x_axis": 0.491993,
+  "scale_m_per_pixel_y_axis": 0.496281,
+  "mean_scale_m_per_pixel": 0.494137,
+  "point_fit_residuals": [
+    {
+      "id": "P1",
+      "residual_m": 0.989
+    },
+    {
+      "id": "P2",
+      "residual_m": 0.062
+    },
+    {
+      "id": "P3",
+      "residual_m": 0.457
+    },
+    {
+      "id": "P4",
+      "residual_m": 0.47
+    }
+  ],
+  "max_fit_residual_m": 0.989,
+  "mean_fit_residual_m": 0.495,
+  "pairwise_scale_checks": [
+    {
+      "pair": "P1-P2",
+      "pixel_distance": 464.898,
+      "geographic_distance_m": 229.456,
+      "metres_per_pixel": 0.493562
+    },
+    {
+      "pair": "P1-P3",
+      "pixel_distance": 253.97,
+      "geographic_distance_m": 125.323,
+      "metres_per_pixel": 0.493456
+    },
+    {
+      "pair": "P1-P4",
+      "pixel_distance": 223.573,
+      "geographic_distance_m": 110.505,
+      "metres_per_pixel": 0.494269
+    },
+    {
+      "pair": "P2-P3",
+      "pixel_distance": 628.866,
+      "geographic_distance_m": 308.812,
+      "metres_per_pixel": 0.491062
+    },
+    {
+      "pair": "P2-P4",
+      "pixel_distance": 460.353,
+      "geographic_distance_m": 226.548,
+      "metres_per_pixel": 0.492119
+    },
+    {
+      "pair": "P3-P4",
+      "pixel_distance": 474.004,
+      "geographic_distance_m": 234.426,
+      "metres_per_pixel": 0.494566
+    }
+  ],
+  "important_limitations": [
+    "Pixel positions are visual estimates from annotated screenshots, not survey-grade picks.",
+    "The small least-squares residual is an internal fit check, not proof of absolute map accuracy.",
+    "The reported 230 m P1-P2 ruler measurement is an independent consistency check; coordinate distance is computed geodesically.",
+    "Recheck the pixel locations against the original unscaled 1000x450 reference before tracing final road geometry.",
+    "This transform is only intended for the local Nalchik pilot area."
+  ]
+}
