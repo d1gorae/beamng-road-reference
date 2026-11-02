@@ -1,0 +1,17 @@
+{
+  "text.appmek.chemical": "Химические вещества",
+  "text.appmek.creative_tab": "Applied Mekanistics",
+  "text.appmek.qio_frequency": "Частота QIO (%s)",
+  "item.appmek.chemical_cell_housing": "Корпус химической МЭ-ячейки",
+  "item.appmek.chemical_storage_cell_1k": "Химическая МЭ-ячейка хранения на 1 тыс.",
+  "item.appmek.chemical_storage_cell_4k": "Химическая МЭ-ячейка хранения на 4 тыс.",
+  "item.appmek.chemical_storage_cell_16k": "Химическая МЭ-ячейка хранения на 16 тыс.",
+  "item.appmek.chemical_storage_cell_64k": "Химическая МЭ-ячейка хранения на 64 тыс.",
+  "item.appmek.chemical_storage_cell_256k": "Химическая МЭ-ячейка хранения на 256 тыс.",
+  "item.appmek.portable_chemical_cell_16k": "Портативная химическая ячейка на 16 тыс.",
+  "item.appmek.portable_chemical_cell_1k": "Портативная химическая ячейка на 1 тыс.",
+  "item.appmek.portable_chemical_cell_4k": "Портативная химическая ячейка на 4 тыс.",
+  "item.appmek.portable_chemical_cell_64k": "Портативная химическая ячейка на 64 тыс.",
+  "item.appmek.portable_chemical_cell_256k": "Портативная химическая ячейка на 256 тыс.",
+  "item.appmek.chemical_p2p_tunnel": "Химический P2P-туннель"
+}
