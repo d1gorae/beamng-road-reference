@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 5.0d
+			id: "502CBAEAF1810066"
 			image: "atm:textures/questpics/aether/aether_cloud1.png"
 			order: 2
 			rotation: 0.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 5.0d
+			id: "23068DCBD983030C"
 			image: "atm:textures/questpics/aether/aether_cloud1.png"
 			order: 2
 			rotation: 0.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7C9AE45551C53932"
 			image: "atm:textures/questpics/aether/aether_cloud1.png"
 			order: 2
 			rotation: 0.0d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 6.0d
+			id: "4F681F164B29F18F"
 			image: "atm:textures/questpics/aether/aether_cloud4.png"
 			order: 3
 			rotation: 0.0d
@@ -46,6 +50,7 @@
 		}
 		{
 			height: 6.0d
+			id: "08E86F6AE8CF56E5"
 			image: "atm:textures/questpics/aether/aether_cloud4.png"
 			order: 3
 			rotation: 0.0d
@@ -55,6 +60,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3985D2C7B35BFE87"
 			image: "atm:textures/questpics/aether/aether_cloud3.png"
 			order: 2
 			rotation: 0.0d
@@ -64,6 +70,7 @@
 		}
 		{
 			height: 5.0d
+			id: "6230054576BCBAC0"
 			image: "atm:textures/questpics/aether/aether_cloud3.png"
 			order: 2
 			rotation: 0.0d
@@ -73,6 +80,7 @@
 		}
 		{
 			height: 6.0d
+			id: "07E5FDC1533927DE"
 			image: "atm:textures/questpics/aether/aether_cloud5.png"
 			order: 2
 			rotation: 0.0d
@@ -82,6 +90,7 @@
 		}
 		{
 			height: 5.0d
+			id: "615EEC5AF08B38D8"
 			image: "atm:textures/questpics/aether/aether_cloud2.png"
 			order: 2
 			rotation: 0.0d
@@ -91,6 +100,7 @@
 		}
 		{
 			height: 5.0d
+			id: "2D794E04CF9776BA"
 			image: "atm:textures/questpics/aether/aether_cloud2.png"
 			order: 2
 			rotation: 0.0d
@@ -100,6 +110,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7B58346F166991E7"
 			image: "atm:textures/questpics/aether/aether_cloud2.png"
 			order: 2
 			rotation: 0.0d
@@ -109,6 +120,7 @@
 		}
 		{
 			height: 30.0d
+			id: "6C4C9EBB123985B7"
 			image: "atm:textures/questpics/aether/aether_background.png"
 			order: -1
 			rotation: 0.0d
@@ -118,6 +130,7 @@
 		}
 		{
 			height: 3.0d
+			id: "01DA0C1100E299CE"
 			image: "atm:textures/questpics/aether/aether_title.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -126,6 +139,7 @@
 		}
 		{
 			height: 2.0d
+			id: "726DB2F3459D686B"
 			image: "atm:textures/questpics/aether/aether_queen.png"
 			order: 4
 			rotation: 0.0d
@@ -135,6 +149,7 @@
 		}
 		{
 			height: 1.8d
+			id: "1D6E2F0C9A0FA991"
 			image: "atm:textures/questpics/aether/aether_slider.png"
 			order: 4
 			rotation: 0.0d
@@ -144,6 +159,7 @@
 		}
 		{
 			height: 2.0d
+			id: "21BE27DCB117404F"
 			image: "atm:textures/questpics/aether/aether_spirit.png"
 			order: 4
 			rotation: 0.0d
@@ -153,6 +169,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2BCF6376359D9A2E"
 			image: "atm:textures/questpics/aether/aether_tools.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -161,6 +178,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1F1A01F4FF97F01E"
 			image: "atm:textures/questpics/aether/aether_mobs.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -169,6 +187,7 @@
 		}
 		{
 			height: 4.0d
+			id: "2AC5D975DA0601BF"
 			image: "atm:textures/questpics/aether/aether_silver2.png"
 			order: 3
 			rotation: 0.0d
@@ -178,6 +197,7 @@
 		}
 		{
 			height: 4.0d
+			id: "4C034F1908B9DA3B"
 			image: "atm:textures/questpics/aether/aether_bronze2.png"
 			order: 3
 			rotation: 0.0d
@@ -187,6 +207,7 @@
 		}
 		{
 			height: 4.0d
+			id: "7FAC27AE53397BEB"
 			image: "atm:textures/questpics/aether/aether_gold2.png"
 			order: 3
 			rotation: 0.0d
@@ -196,6 +217,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3B42241F4AF05110"
 			image: "atm:textures/questpics/aether/aether_cloud1.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -204,6 +226,7 @@
 		}
 		{
 			height: 5.0d
+			id: "71B39BAF6516A1D4"
 			image: "atm:textures/questpics/aether/aether_cloud1.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -212,6 +235,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3118A29ACB8E1EAE"
 			image: "atm:textures/questpics/aether/aether_cloud1.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -220,6 +244,7 @@
 		}
 		{
 			height: 5.0d
+			id: "14FA799C2A9EC806"
 			image: "atm:textures/questpics/aether/aether_cloud1.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -228,6 +253,7 @@
 		}
 		{
 			height: 5.0d
+			id: "1DE27A4DE5FD30A0"
 			image: "atm:textures/questpics/aether/aether_cloud1.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -236,6 +262,7 @@
 		}
 		{
 			height: 5.0d
+			id: "588139AA92EE9441"
 			image: "atm:textures/questpics/aether/aether_cloud1.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -244,6 +271,7 @@
 		}
 		{
 			height: 4.0d
+			id: "5E8E5F830963C50F"
 			image: "atm:textures/questpics/aether/aether_cloud2.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -252,6 +280,7 @@
 		}
 		{
 			height: 4.0d
+			id: "2A94A15B8066A408"
 			image: "atm:textures/questpics/aether/aether_cloud2.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -260,6 +289,7 @@
 		}
 		{
 			height: 4.0d
+			id: "1DE5B3FFE07D2957"
 			image: "atm:textures/questpics/aether/aether_cloud2.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -268,6 +298,7 @@
 		}
 		{
 			height: 4.0d
+			id: "7D86B475A43C8FE9"
 			image: "atm:textures/questpics/aether/aether_cloud2.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -276,6 +307,7 @@
 		}
 		{
 			height: 4.0d
+			id: "401B6007290C9D8D"
 			image: "atm:textures/questpics/aether/aether_cloud2.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -284,6 +316,7 @@
 		}
 		{
 			height: 4.0d
+			id: "374BC63A379AA875"
 			image: "atm:textures/questpics/aether/aether_cloud2.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -2049,10 +2082,10 @@
 		}
 		{
 			id: "4F2DB9CDE2BACB69"
-			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
+			tags: ["arr"]
 			tasks: [
 				{
 					id: "43AA34BE686DADEE"

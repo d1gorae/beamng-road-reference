@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "5686921213EFE5D6"
 			image: "atm:textures/questpics/undergarden/undergarden_title.png"
 			rotation: 0.0d
 			width: 17.434343434343436d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2EF1284B8220BDB2"
 			image: "atm:textures/questpics/undergarden/undergarden_vegetation.png"
 			rotation: 0.0d
 			width: 6.052631578947368d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.0d
+			id: "65A28BA42D86F437"
 			image: "atm:textures/questpics/undergarden/undergarden_biomes.png"
 			rotation: 0.0d
 			width: 3.6315789473684212d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 1.5d
+			id: "16702ACE8648CA78"
 			image: "atm:textures/questpics/undergarden/undergarden_neutral.png"
 			rotation: 0.0d
 			width: 7.611940298507463d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 1.5d
+			id: "252DBEEE660CB01B"
 			image: "atm:textures/questpics/undergarden/undergarden_hostile.png"
 			rotation: 0.0d
 			width: 5.940789473684211d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 1.5d
+			id: "22BD8388247DFCE8"
 			image: "atm:textures/questpics/undergarden/undergarden_friendly.png"
 			rotation: 0.0d
 			width: 6.592592592592593d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75298F22710A432B"
 			image: "atm:textures/questpics/undergarden/undergarden_tools.png"
 			rotation: 0.0d
 			width: 10.257142857142858d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 2.0d
+			id: "278FBF1F9F1A2CBE"
 			image: "atm:textures/questpics/undergarden/undergarden_gloomper.png"
 			rotation: 0.0d
 			width: 2.301980198019802d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 2.0d
+			id: "131E321CD7277804"
 			image: "atm:textures/questpics/undergarden/undergarden_brute.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6865951832EACC2E"
 			image: "atm:textures/questpics/undergarden/undergarden_rotling.png"
 			rotation: 0.0d
 			width: 1.5617715617715617d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 3.0d
+			id: "108705337B3E5B7C"
 			image: "atm:textures/questpics/undergarden/undergarden_rotwalker.png"
 			rotation: 0.0d
 			width: 1.478527607361963d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 3.0d
+			id: "385BC41E86BA4EC8"
 			image: "atm:textures/questpics/undergarden/undergarden_rotbeast.png"
 			rotation: 0.0d
 			width: 2.8649706457925634d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 4.0d
+			id: "3F874A59212111F5"
 			image: "atm:textures/questpics/undergarden/undergarden_guardian.png"
 			rotation: 0.0d
 			width: 2.0809248554913293d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 2.0d
+			id: "24C1860813F1CB91"
 			image: "atm:textures/questpics/undergarden/undergarden_muncher.png"
 			rotation: 0.0d
 			width: 1.8853868194842407d
@@ -123,6 +137,7 @@
 		}
 		{
 			height: 2.0d
+			id: "13ECF2E2FCFF558A"
 			image: "atm:textures/questpics/undergarden/undergarden_stoneborn.png"
 			rotation: 0.0d
 			width: 1.0316091954022988d
@@ -131,6 +146,7 @@
 		}
 		{
 			height: 2.0d
+			id: "052B0A1FFA523FAC"
 			image: "atm:textures/questpics/undergarden/undergarden_mog.png"
 			rotation: 0.0d
 			width: 1.5603112840466926d
@@ -139,6 +155,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3E570FB7E801167F"
 			image: "atm:textures/questpics/undergarden/undergarden_smog.png"
 			rotation: 0.0d
 			width: 1.8461538461538463d
@@ -147,6 +164,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2211A21E6360935E"
 			image: "atm:textures/questpics/undergarden/undergarden_minion.png"
 			rotation: 0.0d
 			width: 2.1219512195121952d
@@ -155,6 +173,7 @@
 		}
 		{
 			height: 2.0d
+			id: "742BB02F51CBDEF9"
 			image: "atm:textures/questpics/undergarden/undergarden_gronglet.png"
 			rotation: 0.0d
 			width: 2.185185185185185d
@@ -163,6 +182,7 @@
 		}
 		{
 			height: 3.0d
+			id: "23D251FC763F8E56"
 			image: "atm:textures/questpics/undergarden/undergarden_grongle.png"
 			rotation: 0.0d
 			width: 5.4288407163053725d
@@ -171,6 +191,7 @@
 		}
 		{
 			height: 3.0d
+			id: "46747CD53EFE4422"
 			image: "atm:textures/questpics/undergarden/undergarden_ink.png"
 			rotation: 0.0d
 			width: 5.4288407163053725d
@@ -179,6 +200,7 @@
 		}
 		{
 			height: 3.0d
+			id: "7E1EE936763EF0B4"
 			image: "atm:textures/questpics/undergarden/undergarden_veil.png"
 			rotation: 0.0d
 			width: 5.4288407163053725d
@@ -187,6 +209,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6DBB40996D9E7AA8"
 			image: "atm:textures/questpics/undergarden/undergarden_blood.png"
 			rotation: 0.0d
 			width: 5.4288407163053725d
@@ -195,6 +218,7 @@
 		}
 		{
 			height: 6.0d
+			id: "4C8E4410A9983573"
 			image: "atm:textures/questpics/undergarden/undergarden_background.png"
 			rotation: 0.0d
 			width: 10.656d
@@ -202,8 +226,9 @@
 			y: 6.0d
 		}
 		{
-			corner: true
+			corner: 1b
 			height: 6.0d
+			id: "4571A1FE9952A086"
 			image: "atm:textures/questpics/undergarden/undergarden_background.png"
 			rotation: 0.0d
 			width: 10.656d
@@ -212,6 +237,7 @@
 		}
 		{
 			height: 4.0d
+			id: "0364B062087D7FFC"
 			image: "atm:textures/questpics/undergarden/undergarden_vine.png"
 			rotation: 0.0d
 			width: 6.542696629213483d
@@ -220,6 +246,7 @@
 		}
 		{
 			height: 4.0d
+			id: "610D72A6C4E2ED11"
 			image: "atm:textures/questpics/undergarden/undergarden_vine.png"
 			rotation: 0.0d
 			width: 6.542696629213483d
@@ -228,6 +255,7 @@
 		}
 		{
 			height: 4.0d
+			id: "5D031DC0C32F9B7A"
 			image: "atm:textures/questpics/undergarden/undergarden_vine.png"
 			rotation: 0.0d
 			width: 6.542696629213483d
@@ -236,6 +264,7 @@
 		}
 		{
 			height: 4.0d
+			id: "487941642893BF69"
 			image: "atm:textures/questpics/undergarden/undergarden_vine.png"
 			rotation: 0.0d
 			width: 6.542696629213483d
@@ -244,6 +273,7 @@
 		}
 		{
 			height: 6.0d
+			id: "2D7BE795F35A80CC"
 			image: "atm:textures/questpics/undergarden/undergarden_background.png"
 			rotation: 0.0d
 			width: 10.656d
@@ -252,6 +282,7 @@
 		}
 		{
 			height: 6.0d
+			id: "13F704413BCEE52F"
 			image: "atm:textures/questpics/undergarden/undergarden_background.png"
 			rotation: 0.0d
 			width: 10.656d
@@ -259,7 +290,7 @@
 			y: 6.0d
 		}
 	]
-	order_index: 6
+	order_index: 8
 	quest_links: [ ]
 	quests: [
 		{
@@ -1936,9 +1967,9 @@
 		}
 		{
 			id: "4C7E006502E30C20"
-			tags: ["arr"]
 			invisible: true
 			optional: true
+			tags: ["arr"]
 			tasks: [
 				{
 					id: "39194D9CDF673768"

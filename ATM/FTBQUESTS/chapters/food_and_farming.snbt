@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "0F30D71A6FD4D6DB"
 			image: "minecraft:textures/item/cake.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "008CF6B33BB1CF8A"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "735CF1EED8BEE97C"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: -90.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "53DB0190A2AAFF95"
 			image: "minecraft:textures/item/wheat_seeds.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "121391FC6A67E316"
 			image: "minecraft:textures/block/birch_sapling.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3778E8617A66B0B6"
 			image: "minecraft:block/hay_block_side"
 			rotation: -90.0d
 			width: 2.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "14ED0CEA4D1BCE4C"
 			image: "minecraft:item/torchflower_seeds"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "593047FFBDB56199"
 			image: "aquaculture:item/message_in_a_bottle"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0C8E0092D176D07D"
 			image: "minecraft:textures/item/cooked_chicken.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4EFDFC6DC15751DE"
 			image: "minecraft:textures/item/cooked_porkchop.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 2.0d
+			id: "71E65A3B4EA94B3B"
 			image: "aquaculture:textures/item/catfish.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 3.0d
+			id: "5F5935156FF981D7"
 			image: "atm:textures/questpics/food_and_farming.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -360,13 +372,13 @@
 				{
 					count: 10L
 					id: "611CC8005150DC9B"
-					item: { count: 10, id: "minecraft:feather" }
+					item: { count: 1, id: "minecraft:feather" }
 					type: "item"
 				}
 				{
 					count: 5L
 					id: "0CAC6A36AC5A6708"
-					item: { count: 5, id: "minecraft:chicken" }
+					item: { count: 1, id: "minecraft:chicken" }
 					type: "item"
 				}
 			]
@@ -937,10 +949,10 @@
 		}
 		{
 			id: "55C4824DAD905512"
-			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
+			tags: ["arr"]
 			tasks: [
 				{
 					id: "5805158E69C05AED"
