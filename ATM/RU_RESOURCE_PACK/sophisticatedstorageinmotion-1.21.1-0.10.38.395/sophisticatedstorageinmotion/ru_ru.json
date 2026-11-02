@@ -1,0 +1,10 @@
+{
+  "itemGroup.sophisticatedstorageinmotion": "Sophisticated Storage In Motion",
+  "item.sophisticatedstorageinmotion.storage_minecart": "Грузовая вагонетка и %s",
+  "item.sophisticatedstorageinmotion.storage_boat": "Грузовая лодка%s и %s",
+  "item.sophisticatedstorageinmotion.storage_raft": "Грузовой плот%s и %s",
+  "entity.sophisticatedstorageinmotion.storage_minecart": "Грузовая вагонетка и %s",
+  "entity.sophisticatedstorageinmotion.storage_boat": "Грузовая лодка%s и %s",
+  "entity.sophisticatedstorageinmotion.storage_raft": "Грузовой плот%s и %s",
+  "entity.sophisticatedstorageinmotion.chested_horse_with_storage": "%s и %s"
+}

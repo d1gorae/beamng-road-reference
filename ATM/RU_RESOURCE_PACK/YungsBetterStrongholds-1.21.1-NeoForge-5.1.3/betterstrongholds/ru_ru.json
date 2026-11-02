@@ -1,0 +1,11 @@
+{
+ "betterstrongholds.commands.locate.stronghold": "Используйте /locate structure betterstrongholds:stronghold вместо этого!",
+ "Use /locate structure betterstrongholds:stronghold instead!": "Используйте /locate structure betterstrongholds:stronghold вместо этого!",
+
+ "text.autoconfig.betterstrongholds-fabric-1_21.title": "Улучшенные крепости YUNG'а",
+
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds": "Улучшенные крепости YUNG'а",
+
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general": "Общие настройки",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip": "Общие настройки"
+}
