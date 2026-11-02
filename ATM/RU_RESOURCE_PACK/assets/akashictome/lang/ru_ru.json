@@ -1,0 +1,13 @@
+{
+  "akashictome.sudo_name": "Акаши-том (%s)",
+  "akashictome.click_morph": "Shift + щелчок правой кнопкой мыши — сменить книгу",
+  "item.akashictome.tome": "Акаши-том",
+  "akashictome.misc.shift_for_info": "§7Удерживайте §bSHIFT§7, чтобы увидеть подробную информацию",
+  "akashictome.configuration.Allow all items to be added": "Разрешить добавление любых предметов",
+  "akashictome.configuration.Whitelisted Items": "Предметы в белом списке",
+  "akashictome.configuration.Blacklisted Mods": "Моды в чёрном списке",
+  "akashictome.configuration.Mod Aliases": "Альтернативные названия модов",
+  "akashictome.configuration.Hide Book Render": "Скрыть отображение книги",
+  "akashictome.configuration.Whitelisted Names": "Названия в белом списке",
+  "akashictome.configuration.Blacklisted Items": "Предметы в чёрном списке"
+}
