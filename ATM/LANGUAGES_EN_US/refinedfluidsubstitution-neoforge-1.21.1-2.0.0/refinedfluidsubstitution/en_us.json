@@ -1,0 +1,5 @@
+{
+  "mod.refinedfluidsubstitution": "Refined Fluid Substitution",
+  "item.refinedfluidsubstitution.fluid_substitution_pattern": "Fluid Substitution Pattern",
+  "item.refinedfluidsubstitution.fluid_substitution_pattern.help": "Allows autocrafting to use stored fluids instead of filled buckets."
+}

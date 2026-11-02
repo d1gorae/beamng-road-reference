@@ -1,0 +1,15 @@
+{
+    "gui.apply": "Apply",
+    "block.trophymanager.trophy": "Trophy",
+    "trophymanager.trophy.name": "%s Trophy",
+    "trophymanager.tooltip.trophy.scale": "Scale: %s",
+    "gui.trophy.rotation": "%s: %s°",
+    "gui.trophy.size": "Size: %s",
+    "gui.trophy.offset": "Y Offset: %s",
+    "gui.trophy.pose": "Pose: %s",
+    "gui.trophy.pose.standing": "Standing",
+    "gui.trophy.pose.sitting": "Sitting",
+    "gui.trophy.pose.flying": "Flying",
+    "gui.trophy.jei.item_trophy": "Item Trophy",
+    "gui.trophy.jei.any_item": "Any item can go here"
+}
