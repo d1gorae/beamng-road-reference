@@ -1,0 +1,16 @@
+{
+  "tooltip.cucumber.hold_shift_for_info": "Удерживайте §e§oSHIFT§r§7 для подробностей",
+  "tooltip.cucumber.uses_left": "Осталось применений: %s",
+  "tooltip.cucumber.one_use_left": "Осталось 1 применение",
+  "tooltip.cucumber.unlimited_uses": "Неограниченное использование",
+  "tooltip.cucumber.empty": "Пусто",
+  "tooltip.cucumber.filled": "Заполнено",
+  "tooltip.cucumber.hold_ctrl_for_tags": "Удерживайте CTRL, чтобы увидеть теги.",
+  "tooltip.cucumber.hold_alt_for_data_components": "Удерживайте ALT, чтобы увидеть Data Components.",
+  "tooltip.cucumber.block_tags": "Теги блока: ",
+  "tooltip.cucumber.item_tags": "Теги предмета: ",
+  "tooltip.cucumber.not_yet_implemented": "Пока не реализовано.",
+
+  "message.cucumber.filled_energy": "%s забрал Вашу энергию!",
+  "message.cucumber.filled_energy_error": "%s не может принять Вашу энергию."
+}
